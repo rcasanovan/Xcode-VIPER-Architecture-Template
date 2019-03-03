@@ -22,4 +22,5 @@ class ___VARIABLE_moduleName___Router {
 
 // MARK: - ___VARIABLE_moduleName___RouterDelegate
 extension ___VARIABLE_moduleName___Router: ___VARIABLE_moduleName___RouterDelegate {
+    //__ Implement your protocols here
 }

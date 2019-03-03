@@ -2,6 +2,7 @@
 
 import UIKit
 
+//__ This class extends UIViewController. Feel free to modify it if needed
 class ___VARIABLE_moduleName___ViewController: UIViewController {
     
     public var presenter: ___VARIABLE_moduleName___Presenter?
@@ -15,4 +16,5 @@ class ___VARIABLE_moduleName___ViewController: UIViewController {
 
 // MARK: - ___VARIABLE_moduleName___ViewInjection
 extension ___VARIABLE_moduleName___ViewController: ___VARIABLE_moduleName___ViewInjection {
+    //__ Implement your protocols here
 }
