@@ -13,7 +13,7 @@ class ___VARIABLE_moduleName___Router {
     /**
      * Setup the initial module
      */
-    public static func setupModule() -> UIViewController {
+    public static func setupModule(navigationController: UINavigationController? = nil) -> UIViewController {
         //__ Add the implementation here to setup your module
         return UIViewController()
     }
