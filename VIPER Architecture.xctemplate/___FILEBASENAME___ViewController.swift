@@ -10,6 +10,7 @@ class ___VARIABLE_moduleName___ViewController: UIViewController {
     // MARK: Lifecycle
     override func viewDidLoad() {
         super.viewDidLoad()
+        setupViews()
     }
     
 }
