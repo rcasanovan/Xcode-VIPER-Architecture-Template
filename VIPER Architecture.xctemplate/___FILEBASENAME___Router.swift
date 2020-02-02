@@ -4,9 +4,11 @@ import UIKit
 
 class ___VARIABLE_moduleName___Router {
     
+    private weak var view: ___VARIABLE_moduleName___ViewInjection?
     private weak var navigationController: UINavigationController?
     
-    init(navigationController: UINavigationController? = nil) {
+    init(view: ___VARIABLE_moduleName___ViewInjection? = nil, navigationController: UINavigationController? = nil) {
+        self.view = view
         self.navigationController = navigationController
     }
     
