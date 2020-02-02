@@ -19,7 +19,7 @@ class ___VARIABLE_moduleName___ViewController: UIViewController {
 extension ___VARIABLE_moduleName___ViewController {
     
     /**
-     * Setup views
+     Setup views
      */
     private func setupViews() {
         //__ Configure your view here
@@ -30,7 +30,7 @@ extension ___VARIABLE_moduleName___ViewController {
     }
     
     /**
-     * Configure subviews
+     Configure subviews
      */
     private func configureSubviews() {
         //__ Configure all the subviews here
@@ -42,7 +42,7 @@ extension ___VARIABLE_moduleName___ViewController {
 extension ___VARIABLE_moduleName___ViewController {
     
     /**
-     * Add subviews
+     Add subviews
      */
     private func addSubviews() {
         //__ Add all the subviews here
